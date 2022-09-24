@@ -1,4 +1,4 @@
-# Section 13.1
+# Section 13.1 Curves in Space and Their Tangents
 <a href = "https://i.imgur.com/vS5sIKu.png">Question #1</a><br>
 The equation r(t) = (2t)i + (2t-16t^2)j is the position of a particle in space at time t. Find the angle between the velocity and acceleration vectors at time t = 0.
 <br>
@@ -9,13 +9,13 @@ The position of a particle in the xy-plane at time t is r(t) = (t-4)i + (t^2 +3)
 Find the parametric equations for the line that is tangent to the given curve at the give parametric value t.<br>
 r(t) = (sin(t))i + (cos(t))j + (sin(4t))k, t = pi/2 
 <br>
-# Section 13.3 
+# Section 13.3 Arc Length in Space
 <a href = "https://i.imgur.com/2l9z1cE.png">Question #1</a><br>
 Find the curve's unit tangent vector. Also, find the length of the indicated portion of the curve.<br>
 r(t) = (7cos(t))i + (7sin(t))j + (sqrt(3))k, 0<=t<=pi<br>
 <a href = "https://i.imgur.com/aLcfXIS.png">Question #2</a><br>
 Find the arc length parameter along the given curve from the point where t = 0. Then find the length of the indicated portion of the curve r(t) = (4cos(t))i + (4sin(t))j + (9t)k, where 0<=t<=pi.
-# Section 14.4 
+# Section 14.4 Multivariable Chain Rule
 <a href = "https://i.imgur.com/jAs8gOV.png">Question #1</a><br>
 For the functions w = 7x^2 - 7y^2, x = cos(t), and y = sin(t), express dw/dt as a function of t, both by using the chain rule and expressing w in terms of t and differentiating directly with respect to t. Then evaluate dw/dt at t = pi/4.
 <br>
