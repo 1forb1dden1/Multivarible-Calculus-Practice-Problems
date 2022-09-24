@@ -6,7 +6,7 @@ The equation r(t) = (2t)i + (2t-16t^2)j is the position of a particle in space a
 The position of a particle in the xy-plane at time t is r(t) = (t-4)i + (t^2 +3)j. Find an equation in x and y whose graph is the path of the particle. Then find the particle's velocity and acceleration vectors at t = 4.
 <br>
 <a href = "https://i.imgur.com/yRnfIbT.png">Question #3</a><br>
-Find the parametric equations for the tine that is tangent to the given curve at the give parametric value t.<br>
+Find the parametric equations for the line that is tangent to the given curve at the give parametric value t.<br>
 r(t) = (sin(t))i + (cos(t))j + (sin(4t))k, t = pi/2 
 <br>
 # Section 13.3 
