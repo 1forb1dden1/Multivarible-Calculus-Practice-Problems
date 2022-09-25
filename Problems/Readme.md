@@ -9,6 +9,11 @@ The position of a particle in the xy-plane at time t is r(t) = (t-4)i + (t^2 +3)
 Find the parametric equations for the line that is tangent to the given curve at the give parametric value t.<br>
 r(t) = (sin(t))i + (cos(t))j + (sin(4t))k, t = pi/2 
 <br>
+<a href = "https://i.imgur.com/tzOYueS.png">Question #4</a><br>
+Let P be the plane that contains the points (1,-2,2),(-2,-1,4) and (-1,-3,2).<br>
+Give an equation for the plane P.<br>
+Parameterize the line of intersection between P and the plane z = 1.<br>
+<br>
 # Section 13.3 Arc Length in Space
 <a href = "https://i.imgur.com/2l9z1cE.png">Question #1</a><br>
 Find the curve's unit tangent vector. Also, find the length of the indicated portion of the curve.<br>
