@@ -36,3 +36,24 @@ dz/dr where r = 1 , and s = 0.
 <br>
 dz/ds where r = 1, and s = 0.
 <br>
+# Section 14.5 Directional Derivative and Gradient Vectors
+<a href = "https://imgur.com/a/X4JdGae">Problem #1</a><br>
+Find the directions in which the function increases and decreases most rapidly at P0. Then find the derivative of the function in those directions.
+f(x,y,z) = 4ln(xy) + ln(yz) + 3ln(xz), p0(1,1,1)
+<br> 
+Find the direction in which the function increases most rapidly ( this will be in the direction of the unit vector u, given that u is in the same direction of the gradient f. 
+<br>
+Find the direction in which the function is decreasing most rapidly ( this will be in the opposite direction of the unit vector u, given that u is in the same direction of the gradient f.
+<br>
+Find the Directional Derivative of u. 
+<br>
+Find the directional Derivative of -u.
+<br>
+<a href ="https://i.imgur.com/kmH1Z3L.png">Problem #2</a><br>
+Find the derivative of the function at p0 in the direction of A.<br>
+f(x,y) = -4xy + y^2, p0(9,-1), A = 8i + 3j<br>
+<a href ="https://i.imgur.com/4R6ntbX.png">Problem #3</a><br>
+Find the derivative of the function at p0 in the direction of u.<br>
+g(x,y) = (x-y)/(xy+2), p0(1,-1), u = 12i + 5j<br>
+
+
