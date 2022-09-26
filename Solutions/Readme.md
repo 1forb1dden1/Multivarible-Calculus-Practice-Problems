@@ -21,3 +21,14 @@ Solution #2 52<br>
 Solution #3 <br>
 part 1: dz/dr = 90<br>
 part 2: dz/ds = -6 <br>
+
+# Section 14.5 Directional Derivative and Gradient Vectors
+Solution #1<br>
+Part 1:  u = (7/3⋅sqrt(10))i + (5/3⋅sqrt(10))j + (4/3⋅sqrt(10))k<br>
+part 2: -u = -(7/3⋅sqrt(10))i + -(5/3⋅sqrt(10))j + -(4/3⋅sqrt(10))k<br>
+Part 3: (DuF)p0  = 3⋅sqrt(10)<br>
+Part 4: (D-uF)p0 = -3⋅sqrt(10)<br>
+Solution #2<br>
+Part 1: (DaF)(9,-1) = -(82)/(sqrt(73))<br>
+Solution #3<br>
+Part 1: (DuG)(1,-1) = 21/13 <br>
