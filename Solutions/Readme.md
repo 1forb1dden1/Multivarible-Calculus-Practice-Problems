@@ -32,3 +32,11 @@ Solution #2<br>
 Part 1: (DaF)(9,-1) = -(82)/(sqrt(73))<br>
 Solution #3<br>
 Part 1: (DuG)(1,-1) = 21/13 <br>
+# Section 14.6 Tangent Planes and Differentials
+Solution #1<br>
+part 1: -2x + z = -8 <br>
+part 2: x = 8 - 16t, y = 0, z = 8 + 8t<br>
+Solution #2<br>
+part 1: 15x + 9y + 8z - 16<br>
+part 2: 8y + 7z<br>
+part 3: 0 <br>
