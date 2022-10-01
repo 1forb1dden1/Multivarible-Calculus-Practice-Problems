@@ -56,4 +56,17 @@ f(x,y) = -4xy + y^2, p0(9,-1), A = 8i + 3j<br>
 Find the derivative of the function at p0 in the direction of u.<br>
 g(x,y) = (x-y)/(xy+2), p0(1,-1), u = 12i + 5j<br>
 
+# Section 14.6 Tangent Planes and Differentials
+<a href ="https://i.imgur.com/wgI0UOy.png" >Problem #1</a><br>
+Find the equation for (a) the tangent plane and (b) the normal line at point P(8,0,8) on the surface 8z - x^2 = 0.<br>
+(a) using a coefficient of 2 for x. Find the equation of the tangent plane.<br>
+(b) Find the equation(s) for the normal line. <br>
+Express them in terms of of t.<br>
+<a href ="https://i.imgur.com/K7ICk3Z.png">Problem #2</a><br>
+Find the linearizations of L(x,y,z) of the function f(x,y,z) = 8xy + yz + 7xz at (1,1,1), (1,0,0), and (0,0,0).<br>
+The linearization of f(x,y,z) at (1,1,1) is L(x,y,z) is ____ <br>
+The linearization of f(x,y,z) at (1,0,0) is L(x,y,z) is ____ <br>
+The linearization of f(x,y,z) at (0,0,0) is L(x,y,z) is ____ <br>
+
+
 
